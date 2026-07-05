@@ -1,0 +1,18 @@
+# Project dependencies.
+
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.3
+statsmodels>=0.14
+statannotations>=0.6
+
+# Deep reinforcement learning model
+torch>=2.0
+
+# fMRI preprocessing / representational analysis
+nibabel>=5.0
+nilearn>=0.10
+rsatoolbox>=0.1.5
